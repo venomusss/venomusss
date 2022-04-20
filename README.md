@@ -17,7 +17,6 @@
 <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" alt="leaflet" width="80" height="40"/> </a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303557/redux-logo.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="linux-ubuntu" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
 </p>
 <p><img src="https://github-readme-stats.vercel.app/api?username=venomusss&theme=vision-friendly-dark&show_icons=true&locale=en" alt="vynnykv" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomusss&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="vynnykv" /></p>
