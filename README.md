@@ -18,5 +18,3 @@
 <a href="https://leafletjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/leafletjs/leafletjs-ar21.svg" alt="leaflet" width="80" height="40"/> </a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="linux-ubuntu" width="40" height="40"/> </a>
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=venomusss&theme=vision-friendly-dark&show_icons=true&locale=en" alt="venomusss" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=venomusss&theme=vision-friendly-dark&show_icons=true&locale=en&layout=compact" alt="venomusss" /></p>
